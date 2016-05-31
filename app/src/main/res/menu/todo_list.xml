@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/todo_list_menu"
+          android:title="@string/todo"
+        app:showAsAction="always"></item>
+    <item android:id="@+id/task"
+        app:showAsAction="always"
+        android:title="@string/task"></item>
+
+</menu>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ListOfNotes</string>
+    <string name="todo">Заметки</string>
+    <string name="task">+</string>
+    <string name="delete">Удалить</string>
+    <string name="create_todo">Новая заметка</string>
+    <string name="save">Сохранить</string>
+    <string name="delete_confirm">Вы действительно хотите удалить заметку?</string>
+    <string name="ok">Удалить</string>
+    <string name="no">Отмена</string>
+    <string name="emptyText">(НЕТ ЗАМЕТОК)</string>
+</resources>
